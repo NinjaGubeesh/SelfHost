@@ -1,0 +1,8 @@
+largetext - ?ltext [arg]
+name - ?setname [arg]
+state - ?setstate [arg]
+description - ?setdesc [arg]
+smalltext - ?stext [arg]
+appid - ?appid [arg]
+largeimage - ?largeid [arg]
+smallimage - ?smallid[arg]
