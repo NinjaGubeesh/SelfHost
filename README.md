@@ -5,7 +5,7 @@
 
 
 # Getting started
-```
+``` js
 npm i discord.js
 npm i fs
 npm i discord.js-selfbot-v13
