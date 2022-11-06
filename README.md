@@ -68,4 +68,7 @@ Images can be uploaded in rich presence in discord developer portal and get its 
 ## Once you have configured all these your token is ready to run!
 > Contact Celio#0001 if you need any help
 > 
-> Fell free to make PR's and issues for enchancing the bot
+> Feel free to make PR's and issues for enchancing the bot
+
+![Example](https://media.discordapp.net/attachments/1038712209708159007/1038852841659453520/IMG_20221106_215635.jpg?width=552&height=766)
+**Example after using host command**
