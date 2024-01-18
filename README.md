@@ -1,3 +1,5 @@
+# Now this is strictly against discord's TOS, silly me was too curious to experiment back then, i wont be working on anything like this :P
+
 ## Set custom activity for your discord account
 **Can only host one token now**
 
